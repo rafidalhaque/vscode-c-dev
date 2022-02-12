@@ -18,7 +18,7 @@
         "type": "git",
         "url": "https://github.com/rafidalhaque/vscode-c-dev"
     },
-    "license": "https://github.com/rafidalhaque/vscode-c-dev/blob/main/LICENCE",
+    "license": "https://github.com/rafidalhaque/vscode-c-dev/blob/main/LICENSE",
     "keywords": ["C", "Programming Language", "Git", "Github", "SCM"],
     "categories": [
         "Extension Packs"
