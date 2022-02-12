@@ -1,10 +1,16 @@
 {
     "name": "c-dev",
     "displayName": "C-dev",
-    "description": "My favourite extension for c programming language development with git & github management.",
-    "version": "0.0.1",
+    "description": "My favourite extensions for c programming language development with git & github management.",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.64.0"
+    },
+    "publisher": "rafidalhaque",
+    "author": {
+        "name": "Rafid Al Haque",
+        "email": "rafidalhaque@protonmail.com",
+        "url": "https://rafidalhaque.xyz"
     },
     "categories": [
         "Extension Packs"
@@ -41,5 +47,6 @@
         "vsls-contrib.gitdoc", 
         "wayou.vscode-todo-highlight", 
         "Yunseok.vs-code-wiki"
-    ]
+    ],
+    "markdown": "github"
 }
