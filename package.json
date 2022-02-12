@@ -12,6 +12,12 @@
         "email": "rafidalhaque@protonmail.com",
         "url": "https://rafidalhaque.xyz"
     },
+    "icon": "./logo.jpg",
+    "readme": "https://github.com/rafidalhaque/vscode-c-dev#readme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rafidalhaque/vscode-c-dev"
+    },
     "categories": [
         "Extension Packs"
     ],
@@ -47,6 +53,5 @@
         "vsls-contrib.gitdoc", 
         "wayou.vscode-todo-highlight", 
         "Yunseok.vs-code-wiki"
-    ],
-    "markdown": "github"
+    ]
 }
