@@ -12,7 +12,7 @@
         "email": "rafidalhaque@protonmail.com",
         "url": "https://rafidalhaque.xyz"
     },
-    "icon": "./logo.jpg",
+    "icon": "logo.jpg",
     "readme": "https://github.com/rafidalhaque/vscode-c-dev#readme",
     "repository": {
         "type": "git",
