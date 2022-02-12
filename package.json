@@ -1,0 +1,45 @@
+{
+    "name": "c-dev",
+    "displayName": "C-dev",
+    "description": "My favourite extension for c programming language development with git & github management.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "alefragnani.Bookmarks", 
+        "bierner.emojisense", 
+        "christian-kohler.path-intellisense", 
+        "codezombiech.gitignore", 
+        "eamodio.gitlens", 
+        "EliverLara.andromeda", 
+        "erikphansen.vscode-toggle-column-selection", 
+        "formulahendry.code-runner", 
+        "GitHub.remotehub", 
+        "GitHub.vscode-pull-request-github", 
+        "Goopware.raythis", 
+        "lostintangent.vsls-whiteboard", 
+        "mhutchie.git-graph", 
+        "ms-vscode-remote.remote-ssh", 
+        "ms-vscode-remote.remote-ssh-edit", 
+        "ms-vscode.cmake-tools", 
+        "ms-vscode.cpptools", 
+        "ms-vscode.cpptools-extension-pack", 
+        "ms-vsliveshare.vsliveshare", 
+        "ms-vsliveshare.vsliveshare-audio", 
+        "naumovs.color-highlight", 
+        "PKief.material-icon-theme", 
+        "pnp.polacode", 
+        "rafidalhaque.frontend-dev-pack", 
+        "streetsidesoftware.code-spell-checker", 
+        "twxs.cmake", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "vsls-contrib.gistfs", 
+        "vsls-contrib.gitdoc", 
+        "wayou.vscode-todo-highlight", 
+        "Yunseok.vs-code-wiki"
+    ]
+}
